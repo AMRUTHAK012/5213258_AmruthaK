@@ -1,0 +1,52 @@
+git clone
+-------------------------------------------------
+
+git remote add origin <repolink>
+
+git remote -v
+-------------------------------------------------
+
+git init
+
+git pull
+
+git diff / git diff branchl branch2
+
+git add .
+
+git status
+
+git stash/ git commit -m "<commit message>" -- testing
+
+git log
+
+git push
+
+git branch <branchName>
+
+git checkout <branchName>
+
+git diff <branch1> <branch2>
+
+git merge <branchName>
+
+----------------------------------------------------
+main
+      -Dev ->Dev testing
+
+      |-FeatureBranching
+
+      - TaskBranch1 ->PR: Lead review ->Merge Dev
+
+      -TaskBranch2
+
+      -TaskBranch3
+
+
+      -QA -> QA testing
+
+      -Stage -> QA testing -> Client testing/Sprint Demo
+
+
+      -Prod->Go live
+
