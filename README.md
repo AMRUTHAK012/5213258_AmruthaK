@@ -10,6 +10,11 @@
 <img src="https://github.com/AMRUTHAK012/5213258_AmruthaK/blob/main/Liinux/Linux4.jpeg" alt="image">
 <img src="https://github.com/AMRUTHAK012/5213258_AmruthaK/blob/main/Liinux/Linux5.jpeg" alt="image">
 <img src="https://github.com/AMRUTHAK012/5213258_AmruthaK/blob/main/Liinux/Linux6.jpeg" alt="image">
+<img src="https://github.com/AMRUTHAK012/5213258_AmruthaK/blob/main/Liinux/Linux7.jpeg" alt="image">
+<img src="https://github.com/AMRUTHAK012/5213258_AmruthaK/blob/main/Liinux/Linux8.jpeg" alt="image">
+<img src="https://github.com/AMRUTHAK012/5213258_AmruthaK/blob/main/Liinux/Linux9.jpeg" alt="image">
+<img src="https://github.com/AMRUTHAK012/5213258_AmruthaK/blob/main/Liinux/Linux10.jpeg" alt="image">
+
 
 
 
