@@ -16,6 +16,9 @@
 <img src="https://github.com/AMRUTHAK012/5213258_AmruthaK/blob/main/Liinux/Linux10.jpeg" alt="image">
 
 
+<img src="https://github.com/AMRUTHAK012/5213258_AmruthaK/blob/main/C_Programming/C_beginner%20(2).jpeg" alt="image">
+<img src="https://github.com/AMRUTHAK012/5213258_AmruthaK/blob/main/C_Programming/C_intermediate%20(2).jpeg" alt="image">
+
 
 
 
